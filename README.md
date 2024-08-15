@@ -21,4 +21,8 @@ O jogo é baseado em fases onde devem se derrotar diversos inimigos espalhados p
 ### Estilo
 FPS anos 90
 
+##
+
 [Link para o Repositório do Jogo](https://github.com/GustavoRaia/jogo-cria)
+
+[Link para o Repositório do Grupo](https://github.com/gvfirmeza/OceansWrath)
